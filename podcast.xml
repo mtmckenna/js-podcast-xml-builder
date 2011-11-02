@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<ttl>60</ttl>
+
+<title>Taco Wednesday - Berkeley, CA</title>
+<link>http://www.tacowednesday.com/podcast/</link>
+<language>en</language>
+<copyright>&#xA9; 2002-2011 Taco Wednesday</copyright>
+<itunes:explicit>Yes</itunes:explicit>
+<itunes:subtitle>http://www.tacowednesday.com</itunes:subtitle>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:summary>Short and long movies for short and long people.</itunes:summary>
+<description>Short and long movies for short and long people.</description>
+<itunes:owner>
+<itunes:name>Matt McKenna</itunes:name>
+<itunes:email>matt@tacowednesday.com</itunes:email>
+</itunes:owner>
+<itunes:image href="http://www.tacowednesday.com/podcast/twlogo_white.jpg" />
+<itunes:category text="TV &amp; Film"/>
+<itunes:category text="Comedy"/>
+
+<item>
+<title>Strange Human Custom</title>
+<itunes:explicit>Yes</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>Not only is he a space alien, but he's rude too.</itunes:subtitle>
+<itunes:summary> Not only is he a space alien, but he's rude too.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/strangehumancustomSD.m4v" type="video/x-m4v" length="82879468" />
+<guid>http://www.tacowednesday.com/podcast/strangehumancustom.m4v</guid>
+<pubDate>Tue, 2 Aug 2011 21:03:42 GMT</pubDate>
+<itunes:duration>6:56</itunes:duration>
+<itunes:keywords>Comedy, Alien, Shorts, Bay Are, Taco Wednesday, Satire, Improv, Berkeley, Santa Cruz, San Francisco</itunes:keywords>
+</item>
+
+<item>
+<title>Signatures</title>
+<itunes:explicit>No</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>One volunteer collects signatures for the good of the cause while the other is just in it for the free coupons.</itunes:subtitle>
+<itunes:summary>One volunteer collects signatures for the good of the cause while the other is just in it for the free coupons.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/signatures.m4v" type="video/x-m4v" length="87206402" />
+<guid>http://www.tacowednesday.com/podcast/signatures.m4v</guid>
+<pubDate>Tue, 27 Apr 2010 19:00:00 GMT</pubDate>
+<itunes:duration>7:02</itunes:duration>
+<itunes:keywords>America, Taco Wednesday, Ethics, Obama, Politics, Satire, Improv, Berkeley, Santa Cruz, San Francisco</itunes:keywords>
+</item>
+
+<item>
+<title>Creepy Crawlers Attack America</title>
+<itunes:explicit>No</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>Jim must avenge his wife's death by killing a giant snake.</itunes:subtitle>
+<itunes:summary>Jim must avenge his wife's death by killing a giant snake.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/creepycrawlers.mp4" type="video/mp4" length="71389623" />
+<guid>http://www.tacowednesday.com/podcast/creepycrawlers.mp4</guid>
+<pubDate>Thu, 28 Aug 2008 19:00:00 GMT</pubDate>
+<itunes:duration>8:53</itunes:duration>
+<itunes:keywords>Creepy Crawlers, Attack, America, Taco Wednesday, Green Screen, Blue, Improv, Berkeley, Santa Cruz, San Francisco</itunes:keywords>
+</item>
+
+<item>
+<title>Gene Kelly's Downstairs Neighbor</title>
+<itunes:explicit>No</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>Gene Kelly is a noisy neighbor. </itunes:subtitle>
+<itunes:summary>Gene Kelly is a noisy neighbor. </itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/genekelly.mp4" type="video/mp4" length="20099475" />
+<guid>http://www.tacowednesday.com/podcast/genekelly.mp4</guid>
+<pubDate>Thu, 24 Jul 2008 19:00:00 GMT</pubDate>
+<itunes:duration>2:28</itunes:duration>
+<itunes:keywords>Gene Kelly, Parody, Musical, Berkeley, Santa Cruz, San Francisco, Taco Wednesday</itunes:keywords>
+</item>
+
+<item>
+<title>Coffee Mug</title>
+<itunes:explicit>No</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>It's about a coffee mug.</itunes:subtitle>
+<itunes:summary>It's about a coffee mug.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/coffee.mp4" type="video/mp4" length="29353078" />
+<guid>http://www.tacowednesday.com/podcast/coffee.mp4</guid>
+<pubDate>Thu, 11 Oct 2007 19:00:00 GMT</pubDate>
+<itunes:duration>3:31</itunes:duration>
+<itunes:keywords>Film, Movies, Student films, Coffee Mug, Coffee, Taco Wednesday, Comedy, Dark comedy, black comedy, indie films, Indiana, Santa Cruz, UCSC, Berkeley</itunes:keywords>
+</item>
+
+<item>
+<title>Thanksgetting, a Real Band</title>
+<itunes:explicit>Yes</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>Two college students try to interview their favorite band and things go poorly.</itunes:subtitle>
+<itunes:summary>Two college students try to interview their favorite band and things go poorly.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/thanks.mp4" type="video/mp4" length="135068971" />
+<guid>http://www.tacowednesday.com/podcast/thanks.mp4</guid>
+<pubDate>Thu, 20 Jul 2006 19:00:00 GMT</pubDate>
+<itunes:duration>18:04</itunes:duration>
+<itunes:keywords>Film, Movies, Student films, Thanksgetting, Thanksgetting, a Real Band, Taco Wednesday, Comedy, Dark comedy, black comedy, indie films, Indiana, Santa Cruz, UCSC, Berkeley</itunes:keywords>
+</item>
+
+<item>
+<title>Promotion</title>
+<itunes:explicit>No</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>What happens when laziness meets career growth?</itunes:subtitle>
+<itunes:summary>Dan really likes his current job within the outgoing orders department. Unfortunately, when the position of technical supervisor becomes available, upper management looks in his direction to fill the vacancy. In Promotion, Dan attempts to cordially deny the new job offer despite Mr. Johnsonapos;s incessant pleas to do otherwise.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/promotion.mp4" type="video/mp4" length="128264488" />
+<guid>http://www.tacowednesday.com/podcast/promotion.mp4</guid>
+<pubDate>Sun, 26 Feb 2006 19:00:00 GMT</pubDate>
+<itunes:duration>15:09</itunes:duration>
+<itunes:keywords>Film, Movies, Student films, Promotion, Taco Wednesday, Comedy, Office Space, The Office, Office, Dark comedy, black comedy, indie films, Indiana, Santa Cruz, UCSC, Berkeley</itunes:keywords>
+</item>
+
+<item>
+<title>Student for Change</title>
+<itunes:explicit>Yes</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>Socially awkward and not very smart.</itunes:subtitle>
+<itunes:summary>Student for Change is a &quot;documentary&quot; that takes place on a single afternoon and evening in the life of David, a below-average, socially misguided 20-year-old at UC Santa Cruz.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/sfc.mp4" type="video/mp4" length="124197526" />
+<guid>http://www.tacowednesday.com/podcast/sfc.mp4</guid>
+<pubDate>Sun, 26 Feb 2006 19:00:00 GMT</pubDate>
+<itunes:duration>14:15</itunes:duration>
+<itunes:keywords>Film, Movies, Student films, Social Justice, Community, Taco Wednesday, Comedy, Dark comedy, black comedy, indie films, Indiana, Santa Cruz, UCSC, Berkeley</itunes:keywords>
+</item>
+
+<item>
+<title>One on One</title>
+<itunes:explicit>No</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>One man's efforts to gear up for the big tournamanet.</itunes:subtitle>
+<itunes:summary>One man's efforts to gear up for the big tournamanet.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/oneonone.mp4" type="video/mp4" length="27566792" />
+<guid>http://www.tacowednesday.com/podcast/oneonone.mp4</guid>
+<pubDate>Thu, 20 Jul 2006 19:00:00 GMT</pubDate>
+<itunes:duration>7:42</itunes:duration>
+<itunes:keywords>Film, Movies, Student films, One on One, Basketball, Taco Wednesday, Comedy, Dark comedy, black comedy, indie films, Indiana, Santa Cruz, UCSC, Berkeley</itunes:keywords>
+</item>
+
+<item>
+<title>Why is Tom in My House?</title>
+<itunes:explicit>No</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>For what reason could Tom be in the house?</itunes:subtitle>
+<itunes:summary>For what reason could Tom be in the house?</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/whyistom.mp4" type="video/mp4" length="14296519" />
+<guid>http://www.tacowednesday.com/podcast/whyistom.mp4</guid>
+<pubDate>Thu, 20 Jul 2006 19:00:00 GMT</pubDate>
+<itunes:duration>4:05</itunes:duration>
+<itunes:keywords>Film, Movies, Student films, Why is Tom in My House, Taco Wednesday, Comedy, Dark comedy, black comedy, indie films, Indiana, Santa Cruz, UCSC, Berkeley</itunes:keywords>
+</item>
+
+<item>
+<title>Bad Woods</title>
+<itunes:explicit>No</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>There&apos;s a lot of things in the forest.</itunes:subtitle>
+<itunes:summary>The woods aren&apos;t safe for running.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/badwoods.mp4" type="video/mp4" length="38804056" />
+<guid>http://www.tacowednesday.com/podcast/badwoods.mp4</guid>
+<pubDate>Sun, 26 Feb 2006 19:00:00 GMT</pubDate>
+<itunes:duration>4:30</itunes:duration>
+<itunes:keywords>Film, Movies, Student films, Bad Woods, Taco Wednesday, Comedy, Dark comedy, black comedy, indie films, Indiana, Santa Cruz, UCSC, Berkeley</itunes:keywords>
+</item>
+
+<item>
+<title>Social Justice &amp; Community</title>
+<itunes:explicit>Yes</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>The community has come together to celebrate!</itunes:subtitle>
+<itunes:summary>This is what happens when people come together.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/sjc.mp4" type="video/mp4" length="36133814" />
+<guid>http://www.tacowednesday.com/podcast/sjc.mp4</guid>
+<pubDate>Sun, 26 Feb 2006 19:00:00 GMT</pubDate>
+<itunes:duration>4:25</itunes:duration>
+<itunes:keywords>Film, Movies, Student films, Social Justice, Community, Taco Wednesday, Comedy, Dark comedy, black comedy, indie films, Indiana, Santa Cruz, UCSC, Berkeley</itunes:keywords>
+</item>
+
+<item>
+<title>Improv and I</title>
+<itunes:explicit>No</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>This movie illustrates my fondness of improv comedy.</itunes:subtitle>
+<itunes:summary>This movie illustrates my fondness of improv comedy.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/improvandi.mp4" type="video/mp4" length="22509910" />
+<guid>http://www.tacowednesday.com/podcast/improvandi.mp4</guid>
+<pubDate>Sun, 26 Feb 2006 19:00:00 GMT</pubDate>
+<itunes:duration>6:29</itunes:duration>
+<itunes:keywords>Film, Movies, Student films, Improv, Taco Wednesday, Comedy, Dark comedy, black comedy, indie films, Indiana, Santa Cruz, UCSC, Berkeley</itunes:keywords>
+</item>
+
+<item>
+<title>Things That Happen After You Die</title>
+<itunes:explicit>Yes</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>A dark comedy about ending it all.</itunes:subtitle>
+<itunes:summary>Logan&apos;s life hits a speed bump when his Ethiopian Aunt dies suddenly. Feeling he isn&apos;t receiving his fair share of attention, Logan (Josh McClain) attempts to fake his own suicide to garner some sympathy. His secret is kept from his best friend Stan (Alex Kramer), his girlfriend Vanessa (Katherine Lelek), and his parents (Don &amp; Kim McClain). Logan decides to hide out with Clayton (Nick McKibben), an acquaintance he doesn&apos;t particularly like. Unfortunately for Logan, his loved ones don&apos;t react to his death quite as he hoped. How will Logan cope with the world&apos;s negligence to his memory?  Not well.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/things.mp4" type="video/mp4" length="741371899" />
+<guid>http://www.tacowednesday.com/podcast/things.mp4</guid>
+<pubDate>Sun, 26 Feb 2006 19:00:00 GMT</pubDate>
+<itunes:duration>85:09</itunes:duration>
+<itunes:keywords>Film, Movies, Student films, Things That Happen After You Die, Taco Wednesday, Comedy, Dark comedy, black comedy, indie films, Indiana, Santa Cruz, UCSC, Berkeley</itunes:keywords>
+</item>
+
+<item>
+<title>A Friendly Negotiation</title>
+<itunes:explicit>No</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>All the cool people are in Hell.</itunes:subtitle>
+<itunes:summary>Working as God's intern, Gabriel's job requires him to convince Satan that a person of dubious karma has somehow earned a place in heaven.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/afn.mp4" type="video/mp4" length="101230018" />
+<guid>http://www.tacowednesday.com/podcast/afn.mp4</guid>
+<pubDate>Sun, 26 Feb 2006 19:00:00 GMT</pubDate>
+<itunes:duration>11:50</itunes:duration>
+<itunes:keywords>Film, Movies, Student films, Bad Woods, Taco Wednesday, Comedy, Dark comedy, black comedy, indie films, Indiana, Santa Cruz, UCSC, Berkeley</itunes:keywords>
+</item>
+
+<item>
+<title>Computer Die</title>
+<itunes:explicit>Yes</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>Computers and violence.</itunes:subtitle>
+<itunes:summary>Larry and his older brother just don't get along. While Larry enjoys the solitary hobby of personal computing, his brother enjoys maniacal senseless violence. Our story begins when these two worlds collide into a bloody and entertaining fireball of destruction.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/computerdie.mp4" type="video/mp4" length="83332570" />
+<guid>http://www.tacowednesday.com/podcast/computerdie.mp4</guid>
+<pubDate>Sun, 26 Feb 2006 19:00:00 GMT</pubDate>
+<itunes:duration>9:28</itunes:duration>
+<itunes:keywords>Film, Movies, Student films, Bad Woods, Taco Wednesday, Comedy, Dark comedy, black comedy, indie films, Indiana, Santa Cruz, UCSC, Berkeley</itunes:keywords>
+</item>
+
+<item>
+<title>Reps</title>
+<itunes:explicit>No</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>(Audio only) Life and workouts.</itunes:subtitle>
+<itunes:summary>(Audio only) Life and workouts.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/reps.mp3" type="audio/mpeg" length="6483608" />
+<guid>http://www.tacowednesday.com/podcast/reps.mp3</guid>
+<pubDate>Sun, 26 Feb 2006 19:00:00 GMT</pubDate>
+<itunes:duration>5:24</itunes:duration>
+<itunes:keywords>Film, Movies, Student films, Reps, Taco Wednesday, Comedy, Office Space, The Office, Office, Dark comedy, black comedy, indie films, Indiana, Santa Cruz, UCSC, Berkeley</itunes:keywords>
+</item>
+
+<item>
+<title>Fantastic Customer Service</title>
+<itunes:explicit>No</itunes:explicit>
+<itunes:author>Taco Wednesday</itunes:author>
+<itunes:subtitle>(Audio only) Imagine a world in which companies care about their customers.</itunes:subtitle>
+<itunes:summary>(Audio only) Jay Hansen calls CitiBank when he discovers his ATM card is stolen.  The receptionist is more than happy to take his call.</itunes:summary>
+<enclosure url="http://www.tacowednesday.com/podcast/fantasticservice.mp3" type="audio/mpeg" length="8143555" />
+<guid>http://www.tacowednesday.com/podcast/fantasticservice.mp3</guid>
+<pubDate>Sun, 26 Feb 2006 19:00:00 GMT</pubDate>
+<itunes:duration>6:47</itunes:duration>
+<itunes:keywords>Film, Movies, Student films, Fantastic Customer Srvice, Jay Hansen, Taco Wednesday, Comedy, Office Space, The Office, Office, Dark comedy, black comedy, indie films, Indiana, Santa Cruz, UCSC, Berkeley</itunes:keywords>
+</item>
+
+</channel>
+</rss>
